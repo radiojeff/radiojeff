@@ -5,7 +5,6 @@ amateur radio.
 
 [W7BRS Stuff](http://blog.w7brs.com)
 
-
 - 🔭 I’m currently working on the rocket engine controllers for lunar descent at Blue Origin.
 - 🌱 I’m currently learning SDR fundamentals, and building tube based audio gear to make my radio signal bit more de-lux.
 - 👯 I’m looking to collaborate on SDR stuff and ways to teach CW to those who are timid.
