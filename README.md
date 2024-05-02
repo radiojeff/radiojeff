@@ -5,9 +5,9 @@ amateur radio.
 
 [W7BRS Stuff](http://blog.w7brs.com)
 
-- 🔭 I’m currently working on the rocket engine controllers for lunar descent at Blue Origin.
+- 🔭 I’m currently semi-retired from the aerospace industry.  I used to make space ships.
 - 🌱 I’m currently working a lot CW and contests
-- 👯 I’m looking to collaborate on DX'peditions.
-- 💬 Ask me about bespoke antennas and homebrew electronics
+- 👯 I’m going on a DX'pedition in July, 2024.
+- 💬 Ask me about bespoke antennas and homebrew electronics -- ask me about ways to learn CW.
 - 📫 How to reach me: on QRZ... W7BRS
 - ⚡ Fun fact: I can be bribed with cookies.
